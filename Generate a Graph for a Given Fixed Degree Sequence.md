@@ -21,8 +21,8 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 ## PYTHON PROGRAM
 
 ```python
-#Reg No.:212222060013
-#Name: AKSHAIYAN S
+#Reg No.:212222060224
+#Name: SANTHOSH M J
 class AdjNode:
 	def __init__(self, data):
 		self.vertex = data
