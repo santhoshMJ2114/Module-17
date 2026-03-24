@@ -28,8 +28,8 @@ To write a Python program to **print DFS traversal** from a given source vertex.
 ## PYTHON PROGRAM
 
 ```python
-#Reg No.:212222060013
-#Name: AKSHAIYAN S
+#Reg No.:212222060224
+#Name: SANTHOSH M J
 from collections import defaultdict
 
 # This class represents a directed graph using
